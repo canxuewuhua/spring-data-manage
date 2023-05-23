@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.huolieniao</groupId>
-    <artifactId>spring-pro-data</artifactId>
+    <artifactId>spring-data-manage</artifactId>
     <version>1.1.0</version>
 
     <parent>
